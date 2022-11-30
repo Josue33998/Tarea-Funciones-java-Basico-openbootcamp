@@ -1,7 +1,5 @@
 package com.personal;
 
-import java.util.Scanner;
-
 public class TareaFunciones {
 
     public static void main(String[] args) {
